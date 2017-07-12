@@ -1,0 +1,8 @@
+[INFO  - 2017-06-29T13:28:10.943Z] GhostDriver - Main - running on port 57085
+[INFO  - 2017-06-29T13:28:14.415Z] Session [cdd02c80-5cce-11e7-9ea1-5742723ed14a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-29T13:28:14.415Z] Session [cdd02c80-5cce-11e7-9ea1-5742723ed14a] - page.customHeaders:  - {}
+[INFO  - 2017-06-29T13:28:14.415Z] Session [cdd02c80-5cce-11e7-9ea1-5742723ed14a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-29T13:28:14.415Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cdd02c80-5cce-11e7-9ea1-5742723ed14a
+[INFO  - 2017-06-29T13:33:10.934Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-29T13:38:10.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+d6', because windowless
